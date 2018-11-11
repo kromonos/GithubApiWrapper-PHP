@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkromonos%2FGithubApiWrapper-PHP.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkromonos%2FGithubApiWrapper-PHP?ref=badge_shield)
+
 *Github API Wrapper*
 =================================================
 -------------------------------------------------
@@ -179,3 +181,6 @@ $response = $github->executeRequest('POST','user/repos',$query);
     }
 }
 </pre>
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkromonos%2FGithubApiWrapper-PHP.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkromonos%2FGithubApiWrapper-PHP?ref=badge_large)
